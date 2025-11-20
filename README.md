@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
@@ -60,8 +61,10 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
