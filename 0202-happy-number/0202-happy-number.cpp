@@ -1,20 +1,24 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        unordered_set<int> seen;
-        while(n != 1) {
-            if(seen.count(n)) {
-                return false;
+        auto getNext = [](int number) {
+            int total = 0;
+            while(number > 0) {
+                int digit = number % 10;
+                total += digit*digit;
+                number /= 10;
             }
-            seen.insert(n);
-            int sum = 0;
-            while(n != 0) {
-                int r = n % 10;
-                sum += r*r;
-                n = n/10;
-            }
-            n = sum;
+            return total;
+        };
+
+        int slow = n;
+        int fast = getNext(n);
+
+        while (fast != 1 && slow != fast) {
+            slow = getNext(slow);
+            fast = getNext(getNext(fast));
         }
-        return true;;
+
+        return fast == 1;
     }
 };
