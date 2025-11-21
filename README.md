@@ -24,6 +24,7 @@
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -63,10 +64,15 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
