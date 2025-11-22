@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -100,4 +101,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
