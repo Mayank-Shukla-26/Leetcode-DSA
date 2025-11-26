@@ -51,10 +51,12 @@
 | [0151-reverse-words-in-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
