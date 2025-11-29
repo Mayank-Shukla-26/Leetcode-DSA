@@ -51,6 +51,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -123,4 +124,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
