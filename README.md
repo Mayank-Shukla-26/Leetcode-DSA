@@ -55,6 +55,7 @@
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
