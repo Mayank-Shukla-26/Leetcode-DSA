@@ -15,10 +15,6 @@ public:
             }
         }
 
-        // if ((open + close) % 2 != 0) return -1;
-
-        // return (open + 1) / 2 + (close + 1) / 2;
-
         return open + close;
 
     }
