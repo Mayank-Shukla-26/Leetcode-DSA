@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -166,4 +167,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
