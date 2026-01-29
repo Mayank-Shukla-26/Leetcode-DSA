@@ -20,8 +20,7 @@ public:
                 int s = nums[left] + nums[right];
 
                 if(s == sum){
-                    vector<int> triplet = {nums[i], nums[left], nums[right]};
-                    res.push_back(triplet);
+                    res.push_back({nums[i], nums[left], nums[right]});
                     left++; right--;
                     while(left < n && nums[left] == nums[left-1]) {
                         left++;
