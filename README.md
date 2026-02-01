@@ -28,6 +28,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
