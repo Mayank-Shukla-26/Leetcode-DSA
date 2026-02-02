@@ -46,6 +46,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +72,7 @@
 | [0205-isomorphic-strings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
