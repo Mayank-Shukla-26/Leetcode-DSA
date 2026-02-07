@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxcount(vector<int> &a) {
         int maxc = -1;
-        for(int i=0; i<a.size(); i++) {
+        for(int i=0; i<256; i++) {
             maxc = max(maxc, a[i]);
         }
         return maxc;
