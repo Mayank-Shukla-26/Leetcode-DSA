@@ -76,6 +76,7 @@
 | [0242-valid-anagram](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0796-rotate-string) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -122,6 +124,7 @@
 | [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
