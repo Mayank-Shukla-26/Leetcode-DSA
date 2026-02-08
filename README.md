@@ -70,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
