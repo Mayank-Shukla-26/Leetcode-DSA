@@ -24,6 +24,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0457-circular-array-loop](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -54,6 +55,7 @@
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0457-circular-array-loop](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -144,6 +146,7 @@
 | [0242-valid-anagram](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0457-circular-array-loop](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
