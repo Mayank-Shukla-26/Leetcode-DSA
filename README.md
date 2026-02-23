@@ -29,6 +29,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
@@ -203,6 +205,7 @@
 | [0022-generate-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String Matching
@@ -240,4 +243,12 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
