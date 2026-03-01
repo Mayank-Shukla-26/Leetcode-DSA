@@ -171,6 +171,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
@@ -251,4 +252,16 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
