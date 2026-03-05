@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -259,6 +261,7 @@
 | [0100-same-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,10 +276,15 @@
 | [0100-same-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
