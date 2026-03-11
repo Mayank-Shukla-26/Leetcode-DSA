@@ -242,6 +242,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1009-complement-of-base-10-integer](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Enumeration
 |  |
 | ------- |
