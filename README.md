@@ -268,6 +268,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -279,6 +280,7 @@
 | [0101-symmetric-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -290,6 +292,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -300,6 +303,7 @@
 | [0101-symmetric-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
