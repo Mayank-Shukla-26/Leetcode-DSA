@@ -89,6 +89,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -237,6 +238,7 @@
 | [0039-combination-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +286,7 @@
 | [0112-path-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,6 +300,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
