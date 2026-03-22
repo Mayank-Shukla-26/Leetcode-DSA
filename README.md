@@ -33,6 +33,7 @@
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -139,6 +140,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -158,6 +160,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
