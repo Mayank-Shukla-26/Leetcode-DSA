@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0457-circular-array-loop](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
