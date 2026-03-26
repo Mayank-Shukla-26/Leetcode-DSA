@@ -181,6 +181,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -337,5 +338,10 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
