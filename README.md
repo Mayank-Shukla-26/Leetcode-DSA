@@ -187,6 +187,7 @@
 | [0292-nim-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3870-count-commas-in-range](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3870-count-commas-in-range) |
 ## Stack
 |  |
 | ------- |
