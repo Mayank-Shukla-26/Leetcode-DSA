@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
