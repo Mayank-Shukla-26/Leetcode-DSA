@@ -40,6 +40,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -72,6 +73,7 @@
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -351,4 +353,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0292-nim-game) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
