@@ -110,6 +110,7 @@
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -206,6 +207,7 @@
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
