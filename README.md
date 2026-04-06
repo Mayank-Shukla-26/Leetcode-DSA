@@ -95,6 +95,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0125-valid-palindrome) |
@@ -200,6 +201,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
