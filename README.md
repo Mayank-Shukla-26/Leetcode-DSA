@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0457-circular-array-loop](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0457-circular-array-loop) |
+| [0503-next-greater-element-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -210,6 +211,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -370,4 +372,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
