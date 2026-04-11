@@ -36,6 +36,7 @@
 | [0682-baseball-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -213,6 +214,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -376,4 +378,5 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
