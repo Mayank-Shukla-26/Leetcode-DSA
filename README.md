@@ -119,6 +119,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -186,6 +187,7 @@
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
 | ------- |
