@@ -60,6 +60,7 @@
 | [0015-3sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
