@@ -37,6 +37,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -92,6 +93,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
