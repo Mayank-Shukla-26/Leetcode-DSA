@@ -5,10 +5,19 @@ public:
         int m = matrix[0].size();
 
         for(int i=0; i<n; i++) {
-            for(int j=0; j<m; j++) {
-                if(matrix[i][j] == target) {
-                    return true;
-                    break;
+            if(matrix[i][m-1] < target) {
+                continue;
+            } else {
+                int st = 0;
+                int end = m-1;
+                while(st <= end) {
+                    int mid = st + (end-st)/2;
+                    if(matrix[i][mid] == target) return true;
+                    if(matrix[i][mid] < target) {
+                        st = mid + 1;
+                    } else {
+                        end = mid - 1;
+                    }
                 }
             }
         }
