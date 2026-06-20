@@ -4,21 +4,22 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        for(int i=0; i<n; i++) {
-            if(matrix[i][m-1] < target) {
-                continue;
+        int low = 0;
+        int high = (n*m)-1;
+
+        while(low <= high) {
+            int guess = low + (high - low) /2;
+
+            int row = guess/m;
+            int col = guess%m;
+
+            if(target == matrix[row][col]) {
+                return true;
+            }
+            if(target > matrix[row][col]) {
+                low = guess + 1;
             } else {
-                int st = 0;
-                int end = m-1;
-                while(st <= end) {
-                    int mid = st + (end-st)/2;
-                    if(matrix[i][mid] == target) return true;
-                    if(matrix[i][mid] < target) {
-                        st = mid + 1;
-                    } else {
-                        end = mid - 1;
-                    }
-                }
+                high = guess - 1;
             }
         }
 
