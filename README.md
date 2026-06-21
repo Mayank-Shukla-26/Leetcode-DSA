@@ -27,6 +27,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0457-circular-array-loop](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0457-circular-array-loop) |
@@ -96,6 +97,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
@@ -260,6 +262,7 @@
 | [0048-rotate-image](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
