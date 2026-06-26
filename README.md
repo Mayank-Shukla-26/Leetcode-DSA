@@ -25,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -151,6 +152,7 @@
 | [0015-3sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -194,6 +196,7 @@
 | [0076-minimum-window-substring](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -279,6 +282,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -308,6 +312,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
