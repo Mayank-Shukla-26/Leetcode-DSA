@@ -58,6 +58,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
@@ -215,6 +216,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2965-find-missing-and-repeated-values](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -236,6 +238,7 @@
 | [0292-nim-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3870-count-commas-in-range) |
 ## Stack
 |  |
@@ -270,6 +273,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
