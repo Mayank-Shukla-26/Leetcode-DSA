@@ -23,6 +23,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -337,6 +338,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1009-complement-of-base-10-integer) |
