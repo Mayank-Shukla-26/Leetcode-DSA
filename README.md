@@ -439,4 +439,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
