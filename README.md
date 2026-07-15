@@ -247,6 +247,7 @@
 | [0877-stone-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3870-count-commas-in-range) |
 ## Stack
 |  |
@@ -447,4 +448,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0175-combine-two-tables) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
