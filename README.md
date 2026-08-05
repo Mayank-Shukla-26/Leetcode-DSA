@@ -61,6 +61,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -296,6 +297,7 @@
 | [0054-spiral-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
