@@ -42,6 +42,7 @@
 | [0525-contiguous-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0724-find-pivot-index) |
@@ -172,6 +173,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -226,6 +228,7 @@
 | [0457-circular-array-loop](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -359,6 +362,7 @@
 | [0136-single-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Enumeration
 |  |
