@@ -59,6 +59,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -176,6 +177,7 @@
 | [0645-set-mismatch](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -233,6 +235,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -468,4 +471,8 @@
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
