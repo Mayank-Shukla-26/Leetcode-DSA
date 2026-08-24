@@ -30,6 +30,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -88,6 +89,7 @@
 | [0143-reorder-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0283-move-zeroes) |
@@ -258,6 +260,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0877-stone-game) |
