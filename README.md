@@ -473,6 +473,7 @@
 | [0175-combine-two-tables](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mayank-Shukla-26/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Number Theory
 |  |
