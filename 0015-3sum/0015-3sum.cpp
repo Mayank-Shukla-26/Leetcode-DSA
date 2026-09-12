@@ -1,43 +1,36 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        int n = nums.size();
+        vector<vector<int>> ans;
         sort(nums.begin(), nums.end());
 
-        vector<vector<int>> res;
-        int n = nums.size();
+        set<vector<int>> uniqueTriplets;
 
-        for(int i=0; i<n-2; i++) {
+        for (int i = 0; i < n - 2; i++) {
+            int target = -nums[i];
+            int j = i + 1;
+            int k = n - 1;
 
-            if(i > 0 && nums[i] == nums[i-1]) {
-                continue;
-            }
+            while (j < k) {
+                int sum = nums[j] + nums[k];
 
-            int left = i+1;
-            int right = n-1;
-            int sum = -1 * nums[i];
-
-            while(left < right) {
-                int s = nums[left] + nums[right];
-
-                if(s == sum){
-                    res.push_back({nums[i], nums[left], nums[right]});
-                    left++; right--;
-                    while(left < n && nums[left] == nums[left-1]) {
-                        left++;
-                    }
-                    while(right >= 0 && nums[right] == nums[right+1]) {
-                        right--;
-                    }
-                }
-                else if(s < sum) {
-                    left++;
-                } 
-                else {
-                    right--;
+                if (target == sum) {
+                    uniqueTriplets.insert({nums[i], nums[j], nums[k]});
+                    j++;
+                    k--;
+                } else if (sum < target) {
+                    j++;
+                } else {
+                    k--;
                 }
             }
         }
 
-        return res;
+        for (auto x : uniqueTriplets) {
+            ans.push_back(x);
+        }
+
+        return ans;
     }
 };
